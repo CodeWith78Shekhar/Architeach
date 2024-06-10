@@ -1,9 +1,9 @@
 import React from 'react'
-
+import Header from './components/Header/Header.jsx'
 const App = () => {
   return (
     <>
-      <h1>Shailendra's Project</h1>
+     <Header/>
     </>
   )
 }
