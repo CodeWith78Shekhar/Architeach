@@ -1,7 +1,7 @@
 import React from 'react';
 import './Footer.css';
 import lines from '../../GFB/Home/bg/start your Bulding Journey.png';
-
+import footerimage from '../../GFB/common.png';
 
 const Footer = () => {
     return (
@@ -19,7 +19,7 @@ const Footer = () => {
             </div>
 
             <div className='section2'>
-                <img />
+                <img src={footerimage}/>
             </div>
         </div>
     )

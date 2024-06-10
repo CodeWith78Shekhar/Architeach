@@ -1,11 +1,7 @@
 .mainFooter{
     background-color: #1c1c1c;
     font-family: Arial, sans-serif;
-    background-color: #1c1c1c;
     color: #f0f0f0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     height: 100vh;
 }
 .section1 img{
@@ -15,7 +11,7 @@
     text-align: center;
     width: 39vw;
     position: absolute;
-    top: 32vh;
+    top: 23vh;
     left: 30vw;
 }
 .content p{
@@ -38,4 +34,10 @@
 
 .section1 button:hover {
     background-color: #00000099;
+}
+
+.section2 img{
+    background-color: #00000099;
+    width: 100%;
+    margin-top: 9vh;
 }
