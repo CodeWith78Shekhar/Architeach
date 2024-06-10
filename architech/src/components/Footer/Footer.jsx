@@ -20,6 +20,7 @@ const Footer = () => {
 
             <div className='section2'>
                 <img />
+              
             </div>
         </div>
     )
