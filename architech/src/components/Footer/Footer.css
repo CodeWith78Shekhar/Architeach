@@ -1,0 +1,41 @@
+.mainFooter{
+    background-color: #1c1c1c;
+    font-family: Arial, sans-serif;
+    background-color: #1c1c1c;
+    color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.section1 img{
+    width: 100%;
+}
+.content{
+    text-align: center;
+    width: 39vw;
+    position: absolute;
+    top: 32vh;
+    left: 30vw;
+}
+.content p{
+    letter-spacing: 2px;
+}
+.section1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.section1 button {
+    border: 2px solid #EF6E16;
+    background-color: #00000099;
+    color: #fff;
+    padding: 10px 65px;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 40vw;
+}
+
+.section1 button:hover {
+    background-color: #00000099;
+}
